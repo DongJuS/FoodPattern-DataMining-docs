@@ -15,8 +15,9 @@ AI-powered meal recommendation system using association rule mining and deep lea
 
 ## 사용 기술
 - Python
-- 머신러닝
-- 데이터마이닝
+- R, RSTudio
+- DL
+- Datamining(Clustering, Association Rules)
 
 ## 결과
 프로젝트 결과나 스크린샷을 여기에 추가하세요.
