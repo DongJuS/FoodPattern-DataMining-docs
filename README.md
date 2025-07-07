@@ -3,7 +3,7 @@ AI meal recommendation system using association rule mining and deep learning on
 
 # FoodPattern-DataMining
 
-AI-powered meal recommendation system using association rule mining and deep learning on Gyeonggi high school meal data | 경기도 고등학교 급식 데이터 기반 연관규칙 마이닝 식단 추천 시스템
+AI meal recommendation system using association rule mining and deep learning on Gyeonggi high school meal data | 경기도 고등학교 급식 데이터 기반 연관규칙 마이닝 식단 추천 시스템
 
 ## 프로젝트 소개
 여기에 프로젝트 설명을 작성하세요.
