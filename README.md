@@ -21,3 +21,4 @@ AI meal recommendation system using association rule mining and deep learning on
 
 ## 결과
 프로젝트 결과나 스크린샷을 여기에 추가하세요.
+<img width="407" height="269" alt="식단 결과 스크린샷" src="https://github.com/user-attachments/assets/416acc8e-628b-4580-9a9e-388d7aa10bfd" />
