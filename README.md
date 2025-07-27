@@ -15,15 +15,13 @@ AI meal recommendation system using association rule mining and deep learning on
 - 카테고리 기반 분석: 주식, 국류, 반찬, 김치류 등 음식 카테고리별 체계적 분석
 
 ## 사용 기술
-
-Python: 주요 개발 언어 및 데이터 처리
-R, RStudio: 통계 분석 및 데이터 시각화
-Deep Learning: 음식 분류 및 패턴 학습
-Data Mining:
-
-Clustering (계층적 군집화)
-Association Rules (Apriori, FP-Growth)
-Multi-level FP-Growth (성능 최적화)
+- Python: 주요 개발 언어 및 데이터 처리
+- R, RStudio: 통계 분석 및 데이터 시각화
+- Deep Learning: 음식 분류 및 패턴 학습
+- Data Mining:
+  - Clustering (계층적 군집화)
+  - Association Rules (Apriori, FP-Growth)
+  - Multi-level FP-Growth (성능 최적화)
 
 
 ## 시스템 아키텍처
